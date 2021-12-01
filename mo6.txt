@@ -1,0 +1,23 @@
+15.0- Cells respond to external stimuli for survival; these stimuli can either bind to the cell or enter the cell (T/F)
+True.
+
+15.1- What are the three types of Extracellular Messenger Molecule signaling?
+Extracellular messenger molecules transmit messages between cells
+- Autocrine signaling - Cell surface receptors respond to a messenger
+- Paracrine signaling - Messenger travels short distances through the Extracellular space
+- Endocrine signaling - Messenger moves through the bloodstream
+
+15.1- In Autocrine signaling, receptors generate an intracellular __________ through the _______ enzyme
+Intracellular SECOND MESSENGER through the EFFECTOR enzyme
+*The second messenger tells the cell what to do (initiate transcription, apoptosis...)
+
+15.1- Describe the process of signal transduction. What are signaling pathways?
+Signaling pathways - Path of proteins that change conformation sequentially in series.
+   Change in protein conformation is mediated by phosphorylation
+
+15.1- What are some times of protein receptors?
+G-protein coupled receptors (GPCRs)
+Receptor protein-tyrosine kinases (RTKs)
+Ligand gated channels
+Steroid hormone receptors
+Specific receptors such as B-and T-cell receptors
